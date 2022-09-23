@@ -1,5 +1,5 @@
 # RISC-V Scalar Processor
-##Specifications
+## Specifications
 Pipelined RV32I with Hazard Detection and Forwarding
 
 | Instructions  |  Instructions  |  Instructions  | Instructions  |
